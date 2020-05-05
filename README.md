@@ -1,6 +1,6 @@
 # Line Notify 教學
 ## 大綱
-* [1. Line Notify 介紹](1.-Line-Notify-介紹)
+* [1. Line Notify 介紹](#1.-Line-Notify-介紹)
 * [2. 申請 Token](#2.-申請-Token)
 * [3. 程式撰寫](#3.-程式撰寫)
 
