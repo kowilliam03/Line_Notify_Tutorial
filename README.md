@@ -32,4 +32,4 @@
    6. Token 申請好後，便可以參照[Line Notify API Document](https://notify-bot.line.me/doc/en/)，開始開發程式。
 
 ## 3. 程式撰寫
-> 程式碼請參考app.py
+> 程式碼請參考demo.py
